@@ -10,10 +10,10 @@ Terahertz (THz) band communication technology will be used in the sixth-generati
 ![image info](RMAPPO.png)
 
 ## Version
-Unity 2020.3.25f1
-ML-agents Release 17
-python 3.8
-Pytorch 1.8.0
+- Unity 2020.3.25f1
+- ML-agents Release 17
+- python 3.8
+- Pytorch 1.8.0
 
 ## License
 Copyright (c) 2020 Networking Intelligence
